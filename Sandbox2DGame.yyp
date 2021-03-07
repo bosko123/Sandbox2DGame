@@ -13,6 +13,7 @@
     {"id":{"name":"Dirt","path":"objects/Dirt/Dirt.yy",},"order":2,},
     {"id":{"name":"Noise","path":"scripts/Noise/Noise.yy",},"order":0,},
     {"id":{"name":"GridHelperFunctions","path":"scripts/GridHelperFunctions/GridHelperFunctions.yy",},"order":1,},
+    {"id":{"name":"WorldGenObj","path":"objects/WorldGenObj/WorldGenObj.yy",},"order":4,},
     {"id":{"name":"NoiseLimit","path":"scripts/NoiseLimit/NoiseLimit.yy",},"order":0,},
     {"id":{"name":"GridAdditionalFunctions","path":"scripts/GridAdditionalFunctions/GridAdditionalFunctions.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
